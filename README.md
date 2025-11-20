@@ -5,6 +5,7 @@ GitHub에는 코드가 저장되어 있고, Streamlit Cloud는 해당 코드를 
 
 
 **https://apphelloworld-ucqd2znitylgzixymsesfd.streamlit.app/**
+https://appduckdb-qvv6dsmgmvarakfgue2bbg.streamlit.app/
 
 위 링크를 클릭하면 언제든지 배포된 Streamlit 웹페이지에 접속할 수 있습니다.
 
